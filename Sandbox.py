@@ -1,5 +1,6 @@
-# Programmer: Mr. Lange
-# Program: Sandbox 
-# Date: 12.18.2025
+# Programmer: Demaagd
+# Program: Sandbox - Variables 
+# Date: 1.6.2026
 
-print("This is my amazing sanbox for me to learn and to play.")
+print("Let's make some Variables!")
+
